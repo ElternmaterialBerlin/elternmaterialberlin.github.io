@@ -1,0 +1,4 @@
+Sitemap: https://elternmaterialberlin.github.io/sitemap.txt
+
+User-agent: *
+Disallow:
