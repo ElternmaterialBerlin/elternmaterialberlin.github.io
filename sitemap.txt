@@ -5,6 +5,7 @@ https://elternmaterialberlin.github.io/gremiendoks/gev/gev-wahlprotokoll.html
 https://elternmaterialberlin.github.io/gremiendoks/gev/gev-wahlprotokoll.pdf
 https://elternmaterialberlin.github.io/gremiendoks/ev/ev-kontaktliste.html
 https://elternmaterialberlin.github.io/gremiendoks/ev/ev-kontaktliste.pdf
+https://elternmaterialberlin.github.io/gremiendoks/ev/ev-kontaktliste.docx
 https://elternmaterialberlin.github.io/gremiendoks/ev/ev-wahlprotokoll.html
 https://elternmaterialberlin.github.io/gremiendoks/ev/ev-wahlprotokoll-mit-erl.pdf
 
